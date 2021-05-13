@@ -1,0 +1,29 @@
+{
+  "version": "0.0.0",
+  "name": "yeoman-generator-features",
+  "description": "Defaults and additional features for yeoman-generator.",
+  "homepage": "https://github.com/mshima/yeoman-generator-features",
+  "author": {
+    "name": "Marcelo Shima",
+    "email": "marceloshima@gmail.com",
+    "url": "https://github.com/mshima"
+  },
+  "license": "MIT",
+  "scripts": {
+    "fix": "xo --fix",
+    "pretest": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "find-up": "^5.0.0",
+    "yeoman-generator": "github:mshima/generator#main"
+  },
+  "peerDependencies": {
+    "yeoman-generator": "github:mshima/generator#main"
+  },
+  "devDependencies": {
+    "xo": "^0.40.1"
+  }
+}

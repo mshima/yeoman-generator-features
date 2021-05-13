@@ -1,0 +1,20 @@
+{
+  "@mshima/generator-author": {
+    "name": "Marcelo Shima",
+    "email": "marceloshima@gmail.com",
+    "url": "https://github.com/mshima"
+  },
+  "@mshima/generator-package-json": {
+    "scope": "",
+    "name": "yeoman-generator-features",
+    "description": "Defaults and additional features for yeoman-generator.",
+    "homepage": "https://github.com/mshima/yeoman-generator-features",
+    "keywords": null
+  },
+  "@mshima/generator-license": {
+    "license": "MIT"
+  },
+  "@mshima/generator-node-package": {
+    "enableGit": true
+  }
+}
